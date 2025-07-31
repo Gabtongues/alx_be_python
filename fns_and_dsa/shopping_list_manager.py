@@ -39,7 +39,7 @@ def main():
                 print("Goodbye!")
                 break
             case _:
-                print("Invalid choice. Please select from 1 to 4.")
+                print("Invalid choice. try again)
 
 if __name__ == "__main__":
     main()
